@@ -1,0 +1,5 @@
+# 仓库里统一存 LF，避免 Windows/macOS/Linux 之间来回改换行符
+* text=auto eol=lf
+
+# 图片按二进制处理，不做换行转换
+*.png binary

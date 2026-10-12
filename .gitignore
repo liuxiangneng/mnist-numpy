@@ -1,0 +1,15 @@
+# 数据集（首次运行 src/train.py 或 src/predict.py 会自动下载到 data/）
+data/
+
+# 训练出来的参数文件
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.idea/
+.vscode/
